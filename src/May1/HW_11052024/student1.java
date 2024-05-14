@@ -1,4 +1,4 @@
-package May1.ex_11052024.HW_11052024;
+package May1.HW_11052024;
 
 public class student1 {
     String name;
