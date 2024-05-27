@@ -1,7 +1,5 @@
 package May1.ex_07052024;
 
-import java.sql.SQLOutput;
-
 public class lab152 {
     public static void main(String[] args) {
 
